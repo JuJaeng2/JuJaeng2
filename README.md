@@ -6,12 +6,24 @@
    
 # 👋 안녕하세요, 백엔드 개발자 주재영입니다.
 
-실질적인 문제 해결과 서비스 개선을 통해 성장하는 1년차 백엔드 개발자입니다.  
-AWS 기반 서비스 구축 및 운영 경험을 바탕으로, **안정적이고 효율적인 백엔드 시스템**을 만들어 사용자 경험을 개선하는 데 기여하고 싶습니다.
+실질적인 문제 해결과 서비스 개선을 통해 성장하는 **1년차 백엔드 개발자**입니다. 
+
+**안정적이고 효율적인 백엔드 시스템**을 만들어 사용자 경험을 개선하는 데 기여하고 싶습니다.
+
+**AI를 적극 활용**하여 개발 생산성과 서비스에 적용하는 것에 관심을 갖고 공부하고 있습니다.
+
+
+</br></br></br>
+
+<h2>🌱 Currently Exploring</h2>
+
+<span> <b>MCP + AI 에이전트 연동</b>을 통한 활용 방법 학습 중</span></br>
+<span> <b>Cursor AI와 같은 에이전트 활용</b>을 통한 개발 생산성 향상 및 서비스 개선</span></br>
+<span> <b>API 성능 최적화</b> </span></br>
 
 </br>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h2>🛠️ Tech Stack</h2>
 
 <!-- Language -->
 <img src="https://img.shields.io/badge/Java-C01818?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -50,32 +62,27 @@ AWS 기반 서비스 구축 및 운영 경험을 바탕으로, **안정적이고
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 
+  
 </br></br></br>
 
-<h3>🌱 Currently Exploring</h3>
+<h2>💻 Project</h2>
 
-<span> Cursor AI와 같은 에이전트 활용을 통한 개발 생산성 향상 및 서비스 기능 개선</span></br>
-<span> MCP 적용 방안 모색</span>
-  
-</br>
-
-<h3>📊 Project</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuJaeng2&repo=thisismoney&show_owner=true" />
+<a href="https://github.com/SamCoMo/DBZ-Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samcomo&repo=DBZ-Backend&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuJaeng2&repo=DBZ-Backend&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/JuJaeng2/Gymtopia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuJaeng2&repo=Gymtopia&show_owner=true" />
 </a>
 
-<h3>📊 GitHub Stats</h3> 
+</br></br></br>
+
+<h2>📊 GitHub Stats</h2> 
 
 [![Ju Jae Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuJaeng2&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuJaeng2&layout=compact&theme=radient)](https://github.com/anuraghazra/github-readme-stats)
-</br>
+
+</br></br>
+
 
 <h3>📫 Connect with Me</h3>
 
