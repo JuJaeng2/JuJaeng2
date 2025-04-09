@@ -2,7 +2,7 @@
 
 <div align="center">
 
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=JaeYoung%20Joo&fontSize=70)
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=header&text=JaeYoung%20Joo&fontSize=50)
    
 # 👋 안녕하세요, 백엔드 개발자 주재영입니다.
 
@@ -15,7 +15,7 @@
 
 </br></br></br>
 
-<h2>🌱 Currently Exploring</h2>
+<h3>🌱 Currently Exploring</h3>
 
 <span> <b>MCP + AI 에이전트 연동</b>을 통한 활용 방법 학습 중</span></br>
 <span> <b>Cursor AI와 같은 에이전트 활용</b>을 통한 개발 생산성 향상 및 서비스 개선</span></br>
@@ -23,7 +23,7 @@
 
 </br>
 
-<h2>🛠️ Tech Stack</h2>
+<h3>🛠️ Tech Stack</h3>
 
 <!-- Language -->
 <img src="https://img.shields.io/badge/Java-C01818?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -65,7 +65,7 @@
   
 </br></br></br>
 
-<h2>💻 Project</h2>
+<h3>💻 Project</h3>
 
 <a href="https://github.com/SamCoMo/DBZ-Backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samcomo&repo=DBZ-Backend&show_owner=true" />
@@ -76,7 +76,7 @@
 
 </br></br></br>
 
-<h2>📊 GitHub Stats</h2> 
+<h3>📊 GitHub Stats</h3> 
 
 [![Ju Jae Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuJaeng2&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuJaeng2&layout=compact&theme=radient)](https://github.com/anuraghazra/github-readme-stats)
@@ -95,5 +95,5 @@
 </div> 
 
 
- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+ ![footer](https://capsule-render.vercel.app/api?type=waving&color=27&height=200&section=footer)
 </div>
