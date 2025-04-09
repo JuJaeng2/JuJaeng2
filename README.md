@@ -15,7 +15,7 @@
 
 </br></br>
 
-<h3>🛠️ Tech Stack 🛠️</h3>
+## 🛠️ Tech Stack 🛠️
 
 <!-- Language -->
 <img src="https://img.shields.io/badge/Java-C01818?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -56,13 +56,17 @@
 
 </br></br>
 
-<h3>🧑‍💻 Service 🧑‍💻</h3>
+<h2>🧑‍💻 Service 🧑‍💻</h2>
 
-<b><span>운영중인 서비스:</span></b> <a href="https://thisismoney.site">이게머니(Thisismoney)</a>
+<a href="https://thisismoney.site">
+<img src="./홈_로고.png" width=200px>
+</br>
+이게머니(Thisismoney)
+</a>
 
-</br></br>
+</br></br></br>
 
-<h3>💻 Project 💻</h3>
+<h2>💻 Project 💻</h2>
 
 </br>
 <a href="https://github.com/SamCoMo/DBZ-Backend">
@@ -72,24 +76,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuJaeng2&repo=Gymtopia&show_owner=true" />
 </a>
 
-</br></br>
+</br></br></br>
 
-<h3>🌱 Currently Exploring 🌱</h3>
+<h2>🌱 Currently Exploring 🌱</h2>
 
 <span> <b>MCP + AI 에이전트 연동</b>을 통한 활용 방법 학습 중</span></br>
 <span> <b>Cursor AI와 같은 에이전트 활용</b>을 통한 개발 생산성 향상 및 서비스 개선</span></br>
 <span> <b>API 성능 최적화</b> </span></br>
 
-</br></br>
+</br></br></br>
 
-<h3>📊 GitHub Stats 📊</h3> 
+<h2>📊 GitHub Stats 📊</h2> 
 
 [![Ju Jae Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuJaeng2&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuJaeng2&layout=compact&theme=radient)](https://github.com/anuraghazra/github-readme-stats)
 
-</br></br>
+</br></br></br>
 
-<h3>📫 Connect with Me 📫</h3>
+<h2>📫 Connect with Me 📫</h2>
 
 <div>
 <p>
