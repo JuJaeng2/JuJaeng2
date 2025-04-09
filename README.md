@@ -13,17 +13,9 @@
 **AI를 적극 활용**하여 개발 생산성과 서비스에 적용하는 것에 관심을 갖고 공부하고 있습니다.
 
 
-</br></br></br>
+</br></br>
 
-<h3>🌱 Currently Exploring</h3>
-
-<span> <b>MCP + AI 에이전트 연동</b>을 통한 활용 방법 학습 중</span></br>
-<span> <b>Cursor AI와 같은 에이전트 활용</b>을 통한 개발 생산성 향상 및 서비스 개선</span></br>
-<span> <b>API 성능 최적화</b> </span></br>
-
-</br>
-
-<h3>🛠️ Tech Stack</h3>
+<h3>🛠️ Tech Stack 🛠️</h3>
 
 <!-- Language -->
 <img src="https://img.shields.io/badge/Java-C01818?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -62,11 +54,17 @@
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 
-  
-</br></br></br>
+</br></br>
 
-<h3>💻 Project</h3>
+<h3>🧑‍💻 Service 🧑‍💻</h3>
 
+<b><span>운영중인 서비스:</span></b> <a href="https://thisismoney.site">이게머니(Thisismoney)</a>
+
+</br></br>
+
+<h3>💻 Project 💻</h3>
+
+</br>
 <a href="https://github.com/SamCoMo/DBZ-Backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samcomo&repo=DBZ-Backend&show_owner=true" />
 </a>
@@ -74,17 +72,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuJaeng2&repo=Gymtopia&show_owner=true" />
 </a>
 
-</br></br></br>
+</br></br>
 
-<h3>📊 GitHub Stats</h3> 
+<h3>🌱 Currently Exploring 🌱</h3>
+
+<span> <b>MCP + AI 에이전트 연동</b>을 통한 활용 방법 학습 중</span></br>
+<span> <b>Cursor AI와 같은 에이전트 활용</b>을 통한 개발 생산성 향상 및 서비스 개선</span></br>
+<span> <b>API 성능 최적화</b> </span></br>
+
+</br></br>
+
+<h3>📊 GitHub Stats 📊</h3> 
 
 [![Ju Jae Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuJaeng2&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuJaeng2&layout=compact&theme=radient)](https://github.com/anuraghazra/github-readme-stats)
 
 </br></br>
 
-
-<h3>📫 Connect with Me</h3>
+<h3>📫 Connect with Me 📫</h3>
 
 <div>
 <p>
@@ -97,3 +102,4 @@
 
  ![footer](https://capsule-render.vercel.app/api?type=waving&color=27&height=200&section=footer)
 </div>
+ 
