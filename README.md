@@ -104,6 +104,6 @@
 </div> 
 
 
- ![footer](https://capsule-render.vercel.app/api?type=waving&color=27&height=200&section=footer)
+ ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=footer)
 </div>
  
