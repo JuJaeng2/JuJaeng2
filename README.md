@@ -4,13 +4,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=header&text=JaeYoung%20Joo&fontSize=50)
    
-# 👋 안녕하세요, 백엔드 개발자 주재영입니다.
+## 👋 About me 👋
 
 실질적인 문제 해결과 서비스 개선을 통해 성장하는 **1년차 백엔드 개발자**입니다. 
 
-**안정적이고 효율적인 백엔드 시스템**을 만들어 사용자 경험을 개선하는 데 기여하고 싶습니다.
+**안정적이고 효율적인 서비스**를 만들어 사용자에게 새로운 경험을 전달하고 싶습니다.
 
-**AI를 적극 활용**하여 개발 생산성과 서비스에 적용하는 것에 관심을 갖고 공부하고 있습니다.
+현재는 **AI를 적극 활용**하여 개발 생산성과 서비스에 적용하는 것에 관심을 갖고 공부하고 있습니다.
 
 </br>
 
