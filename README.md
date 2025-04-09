@@ -2,7 +2,7 @@
 
 <div align="center">
 
-   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=header&text=JaeYoung%20Joo&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=header&text=JaeYoung%20Joo&fontSize=50)
    
 # 👋 안녕하세요, 백엔드 개발자 주재영입니다.
 
@@ -12,8 +12,7 @@
 
 **AI를 적극 활용**하여 개발 생산성과 서비스에 적용하는 것에 관심을 갖고 공부하고 있습니다.
 
-
-</br></br>
+</br>
 
 ## 🛠️ Tech Stack 🛠️
 
@@ -54,7 +53,7 @@
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 
-</br></br>
+</br>
 
 <h2>🧑‍💻 Service 🧑‍💻</h2>
 
@@ -64,7 +63,7 @@
 이게머니(Thisismoney)
 </a>
 
-</br></br></br>
+</br></br>
 
 <h2>💻 Project 💻</h2>
 
@@ -76,7 +75,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuJaeng2&repo=Gymtopia&show_owner=true" />
 </a>
 
-</br></br></br>
+</br></br>
 
 <h2>🌱 Currently Exploring 🌱</h2>
 
@@ -84,14 +83,14 @@
 <span> <b>Cursor AI와 같은 에이전트 활용</b>을 통한 개발 생산성 향상 및 서비스 개선</span></br>
 <span> <b>API 성능 최적화</b> </span></br>
 
-</br></br></br>
+</br></br>
 
 <h2>📊 GitHub Stats 📊</h2> 
 
 [![Ju Jae Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuJaeng2&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuJaeng2&layout=compact&theme=radient)](https://github.com/anuraghazra/github-readme-stats)
 
-</br></br></br>
+</br></br>
 
 <h2>📫 Connect with Me 📫</h2>
 
@@ -100,10 +99,10 @@
    <span><b>Blog: </b> https://velog.io/@jujaeng2/posts </span></br>
    <span><b>Email: </b> jjy5230@gmail.com </span> 
 </p>
-
 </div> 
 
 
  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=200&section=footer)
+ 
 </div>
  
